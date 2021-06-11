@@ -14,4 +14,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+![Capture](https://user-images.githubusercontent.com/60405505/121737458-e472db80-cac6-11eb-8dcd-5f581a5a08cc.PNG)
 
