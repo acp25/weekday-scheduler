@@ -18,8 +18,12 @@ THEN the saved events persist
 This app allows users to create events and save the event to local storage.
 
 ![Capture](https://user-images.githubusercontent.com/60405505/121737458-e472db80-cac6-11eb-8dcd-5f581a5a08cc.PNG)
+![image](https://user-images.githubusercontent.com/60405505/122619348-4353ca00-d05e-11eb-8a2f-4e70e845b238.png)
+
 
 link to site: https://acp25.github.io/weekday-scheduler/
+
+Repository Link:https://github.com/acp25/weekday-scheduler
 
 
 ## MIT License 
